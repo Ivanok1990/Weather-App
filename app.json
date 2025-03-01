@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "midterm",
-    "slug": "midterm",
+    "slug": "midterm-exam",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9810b47a-8a13-4a9b-8577-cb38b6c010cf"
+      }
+    },
+    "owner": "ivanok1990"
   }
 }
